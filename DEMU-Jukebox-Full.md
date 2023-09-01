@@ -36,7 +36,7 @@ You need a Cardano wallet to access the site. The wallet is used for purchasing 
 > **Note:** Make sure to secure your seed phrase! This phrase is crucial for accessing your account. Losing the seed phrase could result in losing your funds. With self-custody comes the responsibility to secure this phrase.
 ![backupnow](https://github.com/jaysnel/DEMU-Jukebox/assets/23262423/484308de-3a73-4a8d-93b2-da74a53a492b)
 
-5. Now, navigate to the Discover tab in the bottom right. Search and select "Demu".
+5. Now, navigate to the Discover tab. It will be the last option on the bottom right of your screen. Search for and select "Demu".
 
 6. Once selected, it will open a page to the DEMU Jukebox homepage.
 
