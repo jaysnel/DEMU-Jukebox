@@ -17,6 +17,10 @@ You need a Cardano wallet to access the site. The wallet is used for purchasing 
 
 - **Mobile:** For mobile users, we highly recommend the VESPR wallet. You can download VESPR from the Google Play Store or App Store.
 
+- **Available now on:** 
+  - iOS: [http://vespr.xyz/#/ios](http://vespr.xyz/#/ios)
+  - Android: [http://vespr.xyz/#/android](http://vespr.xyz/#/android)
+
 ### Video Demos
 
 - [Desktop Wallet Setup Video](https://www.youtube.com/watch?v=ynajnmO7wb0) or you can follow the below instructions.
